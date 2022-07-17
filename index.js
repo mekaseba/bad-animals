@@ -1,4 +1,4 @@
-import { animal } from "./animal";
+import { animal } from "./animal.js";
 
 let cat = new animal('cat', 4);
 
